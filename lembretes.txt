@@ -1,3 +1,4 @@
-Pagar contas
-Pagar mais contas
-Chegar do intervalo no horário
+﻿Chegar do intervalo no horário, senão o professor não deixará entrar na sala
+Chamar o Yoshi de José 
+Refazer em casa a atividade de html 
+Fazer a atividade de transformar as tabelas em excel em um banco de dados no sql
