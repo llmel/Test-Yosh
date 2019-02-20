@@ -1,1 +1,3 @@
 Pagar contas
+Pagar mais contas
+Chegar do intervalo no horário
